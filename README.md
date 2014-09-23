@@ -1,7 +1,7 @@
 Greeze
 ===
 
-![alt text](http://zlwaterfield.com/projects/greeze/img/greeze1.jpg "Myo Greeze")
+![alt text](http://zlwaterfield.com/img/greezeext.jpg "Myo Greeze")
 
 #Gesture (Overall) -> Command mapping:
 - fist and spread -> Open browser (currently to hackthenorth.com)
