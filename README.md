@@ -1,5 +1,8 @@
 Greeze
 ===
+
+![alt text](http://zlwaterfield.com/projects/greeze/img/greeze1.jpg "Myo Greeze")
+
 #Gesture (Overall) -> Command mapping:
 - fist and spread -> Open browser (currently to hackthenorth.com)
 - thumbtopinky -> open extension
@@ -35,3 +38,11 @@ Google Plus
 #Dependancies (Chrome Extensions)
 - Reddit Enhancement Suite
 - Hacker News Enhancement Suite
+
+
+Team:
+
+- Zach Waterfield
+- Jackson Prange
+- Jack Forbes
+- Evgeny Gorchakov
