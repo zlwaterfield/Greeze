@@ -1,33 +1,33 @@
-Greeze
+# greeze
 ===
 
-![alt text](http://zlwaterfield.com/img/greezeext.jpg "Myo Greeze")
-Google Extension Picture
+[Demo Video](http://vimeo.com/106725278)
+[Chrome Plugin Picture One](http://zlwaterfield.com/projects/greeze/img/greeze1.jpg)
+[Chrome Plugin Picture Two](http://zlwaterfield.com/projects/greeze/img/greeze2.png)
+[Developer Version of the Myo](http://zlwaterfield.com/projects/greeze/img/nest.jpg)
 
-#Gesture (Overall) -> Command mapping:
+## Gesture (Overall) -> Command mapping:
 - fist and spread -> Open browser (currently to hackthenorth.com)
 - thumbtopinky -> open extension
 - waveIn -> tabs through sites in extension
 - spread -> opens focused link from extension
 
-#Supported Site
+## Supported Site
 - Reddit
 - Hacker News
 - Facebook
-- Twitter 
+- Twitter
 - TweetDeck
 - Google Plus
 - 9Gag
 
+## Dependancies (Chrome Extensions)
+- Reddit Enhancement Suite
+- Hacker News Enhancement Suite
 
-#Dependancies (Chrome Extensions)
-- [Chrome Extension](https://chrome.google.com/webstore/detail/myo-internet-browsing/jppipfjlphmfmcdckheaflljahlddone)
-- [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb)
-- [Hacker News Enhancement Suite](https://chrome.google.com/webstore/detail/hacker-news-enhancement-s/bappiabcodbpphnojdiaddhnilfnjmpm?hl=en)
+## Team:
 
-Team:
-
-- Zach Waterfield
-- Jackson Prange
-- Jack Forbes
-- Evgeny Gorchakov
+Zach Waterfied
+Jackson Prange
+Jack Forbes
+Evgeny Gorchakov
